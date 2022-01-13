@@ -14,17 +14,17 @@ h1{
     font-weight: bold;
 }
 aside {
-    width: 33%;
+    /* width: 33%; */
     height: 600px;
     background-color: #8C9CFA;
 }
 div{
-    width: 33%;
+    /* width: 33%; */
     height: 600px;
     background-color: #7CD7DE; 
 }
 section{
-    width: 33%;
+    /* width: 33%; */
     height: 600px;
     background-color:#7CA4DE;
 }
